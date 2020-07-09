@@ -8,13 +8,20 @@ Spécialiste PHP et Symfony, je suis aussi à l'aise avec le langage Python et n
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-Je me forme au Machine Learning et plus particulièrement au Deep Learning et j'envisage de valider un titre de Data Scientist.
+Je me forme au Machine Learning et plus particulièrement au Deep Learning.
+
+J'envisage même de valider un titre de Data Scientist !
+
+Il paraît que je travaille un peu aussi: je forme en PHP/Symfony et Python et il m'arrive de prendre de la prestation en Symfony
+quand la mission nécessite une expertise particulière.
 
 ## 👯 Peux-t-on collaborer ?
 
 Je suis ouvert à tout type de collaboration, tant que ça ne remet pas en compte mon statut d'indépendant.
 Pas de CDD, pas de CDI !
 
+> Une exception: je ne travaille plus avec la solution PrestaShop. Si on vous a donné mon profil, je vous recommande plutôt de vous rapprocher de l'entreprise PrestaShop directement, qui vous proposera l'un des autres expert(e)s de la solution. J'ai beaucoup trop de copains dans l'écosystème pour me permettre de vous en recommander un 😄
+.
 ## 📫 Comment me contacter ?
 
 Essentiellement sur [LinkedIn](https://www.linkedin.com/in/mickaelandrieu/) pour des opportunités professionnelles, mais pourquoi pas sous forme d'issues dans ce dépôt Git ?
