@@ -20,7 +20,7 @@ quand la mission nécessite une expertise particulière.
 Je suis ouvert à tout type de collaboration, tant que ça ne remet pas en compte mon statut d'indépendant.
 Pas de CDD, pas de CDI !
 
-> Une exception: je ne travaille plus avec la solution PrestaShop. Si on vous a donné mon profil, je vous recommande plutôt de vous rapprocher de l'entreprise PrestaShop directement, qui vous proposera l'un des autres expert(e)s de la solution. J'ai beaucoup trop de copains dans l'écosystème pour me permettre de vous en recommander un 😄
+> Une exception: **je ne travaille plus avec la solution PrestaShop.** Si on vous a donné mon profil, rapprochez-vous de l'entreprise PrestaShop directement, qui vous mettra en relation avec l'un(e) des autres expert(e)s de la solution. J'ai beaucoup trop de copains dans l'écosystème pour me permettre de vous en recommander un 😄
 .
 ## 📫 Comment me contacter ?
 
