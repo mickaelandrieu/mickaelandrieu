@@ -12,7 +12,7 @@ Je me forme au Machine Learning et plus particulièrement au Deep Learning.
 
 J'envisage même de valider un titre de Data Scientist !
 
-Il paraît que je travaille un peu aussi: je forme en PHP/Symfony et Python et il m'arrive de prendre de la prestation en Symfony
+Il paraît que je travaille un peu aussi: je forme en PHP/Symfony et Python et il m'arrive de prendre de la prestation en développement/architecture
 quand la mission nécessite une expertise particulière.
 
 ## 👯 Peux-t-on collaborer ?
@@ -20,13 +20,13 @@ quand la mission nécessite une expertise particulière.
 Je suis ouvert à tout type de collaboration, tant que ça ne remet pas en compte mon statut d'indépendant.
 Pas de CDD, pas de CDI !
 
-> Une exception: **je ne travaille plus avec la solution PrestaShop.** Si on vous a donné mon profil, rapprochez-vous de l'entreprise PrestaShop directement, qui vous mettra en relation avec l'un(e) des autres expert(e)s de la solution. J'ai beaucoup trop de copains dans l'écosystème pour me permettre de vous en recommander un 😄
-.
+> Une exception: **je ne travaille plus avec la solution PrestaShop.** Si on vous a donné mon profil, rapprochez-vous de l'entreprise PrestaShop directement, qui vous mettra en relation avec l'un(e) des autres expert(e)s de la solution. J'ai beaucoup trop de copains dans l'écosystème pour me permettre de vous en recommander un 😄.
+
 ## 📫 Comment me contacter ?
 
 Essentiellement sur [LinkedIn](https://www.linkedin.com/in/mickaelandrieu/) pour des opportunités professionnelles, mais pourquoi pas sous forme d'issues dans ce dépôt Git ?
 
-Surprenez moi ;)
+Surprenez moi 😉
 
 ## ⚡ Fun facts
 
