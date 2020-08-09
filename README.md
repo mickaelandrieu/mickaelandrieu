@@ -3,7 +3,7 @@
 ## 🔭 Qui suis-je ?
 
 Je suis actuellement développeur et formateur web/data.
-Spécialiste PHP et Symfony, je suis aussi à l'aise avec le langage Python et notamment sur les librairies numpy, pandas et matplotlib.
+Spécialiste PHP et Symfony, je suis capable de former au langage Python pour l'analyse et la visualisation de données, notamment par la maîtrise des librairies numpy, pandas et matplotlib.
 
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
