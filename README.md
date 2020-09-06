@@ -18,7 +18,7 @@ Je prépare un (double) titre de Data Analyst et Scientist sur la plateforme Dat
 
 Il paraît que je travaille un peu aussi: actuellement je collabore avec le groupe [Studi](https://www.studi.fr/), un rassemblement d'écoles en ligne sur les parcours Bachelor PHP/Symfony et Bachelor Marketing/Digital Marketing (en Data visualization). J'anime 2 lives d'1h par semaine (1 en PHP/Symfony, 1 en DataViz) et je produis des cours sur les différents parcours.
 
-Je collabore dans le même temps avec [Opquast](https://www.opquast.com/) sur une mission Data top secrète 🙃
+Je collabore avec [Opquast](https://www.opquast.com/) sur une mission Data giga top secrète ! 🙃
 
 ## 👯 Peux-t-on collaborer ?
 
