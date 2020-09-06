@@ -2,18 +2,23 @@
 
 ## 🔭 Qui suis-je ?
 
-Je suis actuellement développeur et formateur web/data.
-Spécialiste PHP et Symfony, je suis capable de former au langage Python pour l'analyse et la visualisation de données, notamment par la maîtrise des librairies numpy, pandas et matplotlib.
+Je suis actuellement consultant et formateur web/data.
+Spécialiste PHP et Symfony, je suis compétent sur le langage Python pour l'analyse et la visualisation de données, notamment par la maîtrise des librairies numpy, pandas et matplotlib.
 
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-Je me forme au Machine Learning et plus particulièrement au Deep Learning.
+Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts à date sont les suivants:
 
-J'envisage même de valider un titre de Data Scientist !
+* Data Visualization (essentiellement en "no code", avec [Tableau](https://www.tableau.com/) et Google [Data Studio](https://datastudio.google.com/))
+* Machine Learning (et plus précisément la NLP)
+* Mathématiques (surtout les statistiques)
 
-Il paraît que je travaille un peu aussi: je forme en PHP/Symfony et Python et il m'arrive de prendre de la prestation en développement/architecture
-quand la mission nécessite une expertise particulière.
+Je prépare un (double) titre de Data Analyst et Scientist sur la plateforme DataCamp, ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
+
+Il paraît que je travaille un peu aussi: actuellement je collabore avec le groupe [Studi](https://www.studi.fr/), un rassemblement d'école en ligne sur les parcours PHP/Symfony et Data Visualization. J'anime 2 lives d'1h par semaine (1 en PHP/Symfony, 1 en DataViz) et je produis des cours sur les différents parcours.
+
+Je collabore dans le même temps avec [Opquast](https://www.opquast.com/) sur une mission Data top secrète 🙃
 
 ## 👯 Peux-t-on collaborer ?
 
@@ -35,3 +40,4 @@ Surprenez moi 😉
 * J'ai fait partie de la Core Team du projet [PrestaShop (CMS eCommerce)](https://github.com/prestashop/prestashop) pendant 4 ans 🐧 ;
 * Mon [tout premier dépôt GitHub](https://github.com/mickaelandrieu/WePlayMusic.fr) a longtemps servi d'exemple chez SensioLabs pour montrer les mauvaises pratiques de développement: Yiiikes !!
 * J'ai à mon actif 20 000 contributions open source sur GitHub, dont 3500 relectures de contributions 👓
+* Un de mes dépôts populaires est [Awesome Cobol](https://github.com/mickaelandrieu/awesome-cobol) ... et pourtant je ne sais pas coder en Cobol 😕
