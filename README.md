@@ -8,11 +8,11 @@ Spécialiste PHP et Symfony, je suis compétent sur le langage Python pour l'ana
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts à date sont les suivants:
+Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts pour 2020 sont les suivants:
 
-* Data Visualization (essentiellement en "no code", avec [Tableau](https://www.tableau.com/) et Google [Data Studio](https://datastudio.google.com/))
-* Machine Learning (et plus précisément la NLP)
-* Mathématiques (surtout les statistiques)
+* la Data Visualization (essentiellement en "no code", avec [Tableau](https://www.tableau.com/) et Google [Data Studio](https://datastudio.google.com/))
+* le Machine Learning (et plus précisément la NLP)
+* les Mathématiques (surtout les statistiques !)
 
 Je prépare un (double) titre de Data Analyst et Scientist sur la plateforme DataCamp, ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
