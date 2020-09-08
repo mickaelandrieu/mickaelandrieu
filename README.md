@@ -14,7 +14,7 @@ Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts pour
 * le Machine Learning (et plus précisément la NLP)
 * les Mathématiques (surtout les statistiques !)
 
-Je prépare un (double) titre de Data Analyst et Scientist sur la plateforme DataCamp, ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
+Je prépare un double titre de Data Analyst et Scientist sur la plateforme DataCamp, ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
 Il paraît que je travaille un peu aussi: actuellement je collabore avec le groupe [Studi](https://www.studi.fr/) sur le Bachelor PHP/Symfony et les Bachelors Marketing/Digital Marketing (en Data visualization). J'anime 2 lives d'1h par semaine (1 en PHP/Symfony, 1 en DataViz) et je produis des cours sur les différents parcours.
 
