@@ -8,23 +8,23 @@ Spécialiste PHP et Symfony, je suis compétent sur le langage Python pour l'ana
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts pour 2020 sont les suivants:
+Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts pour 2021 sont les suivants:
 
 * la Data Visualization (essentiellement en "no code", avec [Tableau](https://www.tableau.com/) et Google [Data Studio](https://datastudio.google.com/))
-* le Machine Learning (et plus précisément la NLP)
-* les Mathématiques (surtout les statistiques !)
+* le Machine Learning (et plus précisément pour la NLP)
+* le Data Engineering
 
 Je prépare un titre de Data Analyste au sein de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) et je me forme en complément sur la plateforme DataCamp, ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
 En 2020, je suis devenu certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile) et rédacteur principal de la revue [Simple Comme Data](https://medium.com/simple-comme-data).
 
-Il paraît que je travaille un peu aussi: actuellement je collabore avec le groupe [Studi](https://www.studi.fr/) sur le Bachelor PHP/Symfony et les Bachelors Marketing/Digital Marketing (en Data visualization). J'anime 2 lives d'1h par semaine (1 en PHP/Symfony, 1 en DataViz) et je produis des cours sur les différents parcours.
+Il paraît que je travaille un peu aussi: actuellement je collabore avec le groupe [Studi](https://www.studi.fr/) sur le Bachelor PHP/Symfony et les Bachelors Marketing/Digital Marketing (en Data visualization). J'anime 2 lives d'1h par semaine (1 en PHP/Symfony, 1 en DataViz) et je produis des cours.
 
 Je collabore avec [Opquast](https://www.opquast.com/) dans le cadre d'une mission Data giga top secrète ! 🙃
 
 ## 👯 Peux-t-on collaborer ?
 
-> Malheureusement je n'ai plus aucune disponibilité jusqu'au mois d'août 2021.
+> Malheureusement je n'ai plus aucune disponibilité jusqu'au mois de septembre 2021.
 
 Je suis ouvert à tout type de collaboration, tant que ça ne remet pas en compte mon statut d'indépendant.
 Pas de CDD, pas de CDI !
