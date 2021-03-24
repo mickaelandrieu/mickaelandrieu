@@ -10,7 +10,7 @@ Spécialiste PHP et Symfony, je suis compétent sur le langage Python pour l'ana
 
 Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts pour 2021 sont les suivants :
 
-* la Data Visualization (essentiellement en "no code", avec [Power BI](https://powerbi.microsoft.com/fr-fr/)
+* la Data Visualization (essentiellement en "no code"), avec [Power BI](https://powerbi.microsoft.com/fr-fr/)
 * le Machine Learning
 * Le traitement de la langue que l'on appelle parfois la "NLP"
 
