@@ -19,9 +19,9 @@ Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts pour
 
 Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je suis le rédacteur principal de la revue [Simple Comme Data](https://medium.com/simple-comme-data) qui partage régulièrement des tutoriels et travaux de data visualization.
 
-En complément de mon activité principale, je suis intervenant au sein des établissements du groupe scolaire Studi sur les problématiques Web et Data.
+Enfin - et en complément de mon activité principale - je suis intervenant au sein des établissements du groupe scolaire Studi sur les problématiques Web et Data.
 
-Concrètement, cela veut dire que j'accompagne et forme plus de **1500 personnes par an** sur PHP, Symfony, Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau et Power BI.
+> Concrètement, cela veut dire que j'accompagne et forme plus de **1500 personnes par an** sur PHP, Symfony, Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau et Power BI.
 
 ## 👯 Peux-t-on collaborer ?
 
