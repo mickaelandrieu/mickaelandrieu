@@ -15,7 +15,7 @@ Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts pour
 * le Machine Learning
 * Le traitement de la langue que l'on appelle parfois la "NLP"
 
-(futur) Diplômé l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je me forme en complément sur la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
+(futur) Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je me forme en complément sur la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
 Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je suis le rédacteur principal de la revue [Simple Comme Data](https://medium.com/simple-comme-data) qui partage régulièrement des tutoriels et travaux de data visualization.
 
@@ -31,7 +31,7 @@ Pas de CDD, pas de CDI !
 
 ## :clipboard: Quelles sont tes références ?
 
-Voici la liste non exhaustive de mes clients actuels et passés : Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Opquast, Packt
+Voici la liste non exhaustive de mes clients actuels et passés : Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Opquast, Packt Publishing
 
 > Pour des recommandations personnelles, elles sont publiques sur mon profil LinkedIn.
 
