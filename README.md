@@ -2,38 +2,55 @@
 
 ## 🔭 Qui suis-je ?
 
-Je suis actuellement consultant et formateur web/data et en poste chez Wako Factory en qualité de Game Data Analyste.
+Je suis actuellement consultant et formateur web/data.
 
-Spécialiste PHP et Symfony, je suis compétent sur le langage Python pour l'analyse et la visualisation de données, notamment par la maîtrise des librairies numpy, pandas, matplotlib, plotly ...
+Spécialiste PHP et Symfony, je m'évalue comme un développeur web Python de niveau "correct".
+
+En qualité de Data Analyste, voici ce que je suis capable de produire :
+
+
+__En analyse de données :__
+
+* Analyse univariée et bivariée ;
+* Tests de Student, Bartlett, Chi² ;
+
+__En Machine Learning :__
+
+* Algorithmes d'apprentissage supervisé : régression linéaire, régression logistique, K-nn et arbres de décision ;
+* Algorithmes d'apprentissage non supervisé : Kmeans, ACP, CAH ;
 
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
-Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts pour 2021 sont les suivants :
 
-* la Data Visualization (essentiellement en "no code"), avec [Power BI](https://powerbi.microsoft.com/fr-fr/)
-* le Machine Learning
-* Le traitement de la langue que l'on appelle parfois la "NLP"
+Je suis intervenant au sein des établissements du groupe scolaire Studi sur les problématiques Web et Data, créateur de cours et mentor pour OpenClassrooms et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
 
-(futur) Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je me forme en complément sur la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
+> Concrètement, cela veut dire que j'accompagne et forme plus de **1500 personnes par an** sur PHP, Symfony, Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
 
-Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je suis le rédacteur principal de la revue [Simple Comme Data](https://medium.com/simple-comme-data) qui partage régulièrement des tutoriels et travaux de data visualization.
+ 
+Je me forme régulièrement sur différents sujets. Mes sujets d'intérêts pour 2021/2022 sont les suivants :
 
-Enfin - et en complément de mon activité principale - je suis intervenant au sein des établissements du groupe scolaire Studi sur les problématiques Web et Data.
+* la Data Visualization (essentiellement en "no code"), avec un passage de certification sur [Power BI](https://powerbi.microsoft.com/fr-fr/)
+* le Data Engineering : je pense préparer un nouveau titre d'Etat de [Data Architect](https://openclassrooms.com/fr/paths/64-data-architect)
+* et continuer à expérimenter tous les domaines liés à l'IA
 
-> Concrètement, cela veut dire que j'accompagne et forme plus de **1500 personnes par an** sur PHP, Symfony, Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau et Power BI.
+(futur) Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
+
+Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je suis le rédacteur principal de la revue [Simple Comme Data](https://medium.com/simple-comme-data) qui partage des tutoriels et travaux de data visualization.
+
+
 
 ## 👯 Peux-t-on collaborer ?
 
-Je suis ouvert à tout type de collaboration, tant que ça ne remet pas en compte mon statut d'indépendant.
+Pourquoi pas, tant que je continue à travailler l'essentiel de mon temps chez moi 👼.
 
-Pas de CDD, pas de CDI !
+Je ne recherche pas de CDI, mais si c'était le cas ce serait pour une entreprise à mission d'intérêt général : open source, éducation, écologie, lutte contre la pauvreté ou le racisme ... 
 
 ## :clipboard: Quelles sont tes références ?
 
-Voici la liste non exhaustive de mes clients actuels et passés : Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Opquast, Packt Publishing
+Voici la liste non exhaustive de mes clients/employeurs passés et actuels : Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Opquast, Packt Publishing
 
-> Pour des recommandations personnelles, elles sont publiques sur mon profil LinkedIn.
+> Pour des recommandations, elles sont disponibles sur mon [profil LinkedIn](https://www.linkedin.com/in/mickaelandrieu/).
 
 ## 📫 Comment me contacter ?
 
@@ -47,5 +64,6 @@ Surprenez moi 😉
 * (ex) Mainteneur principal du projet [CasperJS](https://github.com/casperjs/casperjs) après le départ de @n1k0 (son créateur) 👻 ;
 * (ex) Core Team du projet [PrestaShop (CMS eCommerce)](https://github.com/prestashop/prestashop) pendant 4 ans 🐧 ;
 * Mon [tout premier dépôt GitHub](https://github.com/mickaelandrieu/WePlayMusic.fr) a longtemps servi d'exemple chez SensioLabs pour montrer les mauvaises pratiques de développement : Yiiikes !!
-* (ex) Contributeur actif: 20 000 contributions open source sur GitHub, dont 3500 relectures de contributions 👓
-* Un de mes dépôts les plus populaires est [Awesome Cobol](https://github.com/mickaelandrieu/awesome-cobol) ... et pourtant je ne sais pas coder en Cobol 😕
+* (ex) Contributeur actif: 20 000 contributions open source sur GitHub, dont 3500 relectures de contributions 👓 ;
+* Un de mes dépôts les plus populaires est [Awesome Cobol](https://github.com/mickaelandrieu/awesome-cobol) ... et pourtant je ne sais pas coder en Cobol 😕 ;
+* Je suis titulaire de deux licences (chimie biomoléculaire, informatique), d'un master (ingénieurie informatique) et bientôt d'un titre de niveau 7 en Analyse de données ... j'aime apprendre et sortir de ma zone de confort 😆 !
