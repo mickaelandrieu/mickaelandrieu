@@ -12,7 +12,7 @@ En qualité de Data Analyste, voici ce que je suis capable de produire :
 __En analyse de données :__
 
 * Analyse univariée et bivariée ;
-* Tests de Student, Bartlett, Chi² ;
+* Tests de Student, Bartlett, χ2 ;
 
 __En Machine Learning :__
 
