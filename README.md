@@ -6,7 +6,7 @@ Je suis actuellement consultant et formateur web/data.
 
 Spécialiste PHP et Symfony, je m'évalue comme un développeur web Python de niveau "correct".
 
-En qualité de Data Analyste, voici ce que je suis capable de produire :
+En qualité de Data Analyst/Scientist, voici ce que je suis capable de produire :
 
 
 __En analyse de données :__
@@ -18,6 +18,12 @@ __En Machine Learning :__
 
 * Algorithmes d'apprentissage supervisé : régression linéaire, régression logistique, K-nn et arbres de décision ;
 * Algorithmes d'apprentissage non supervisé : Kmeans, ACP, CAH ;
+
+__En Data Visualisation :__
+
+* Conception, développement, mise en ligne et maintenance de dashboards ;
+* Conception, développement et mise en ligne d'infographies ;
+* Formation aux outils du marché : Plotly, PowerBI, Data Studio, **Tableau** ;
 
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
@@ -31,7 +37,7 @@ Je suis intervenant au sein des établissements du groupe scolaire Studi sur les
 Mes sujets d'intérêts pour 2021/2022 sont les suivants :
 
 * la Data Visualization (essentiellement en "no code"), avec un passage de certification sur [Power BI](https://powerbi.microsoft.com/fr-fr/)
-* le Data Engineering : je pense préparer un titre d'Etat de [Data Architect](https://openclassrooms.com/fr/paths/64-data-architect)
+* la Data Science et le Data Engineering : je pense préparer un titre d'Etat de [Data Scientist](https://openclassrooms.com/fr/paths/164-data-scientist)
 * ... et continuer à expérimenter tous les domaines d'application liés à l'IA
 
 (futur) Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
@@ -66,4 +72,4 @@ Surprenez moi 😉
 * (ex) Contributeur actif: 20 000 contributions open source sur GitHub, dont 3500 relectures de contributions 👓 ;
 * Mon [tout premier dépôt GitHub](https://github.com/mickaelandrieu/WePlayMusic.fr) a longtemps servi d'exemple chez SensioLabs pour montrer les mauvaises pratiques de développement : Yiiikes !!
 * Un de mes dépôts les plus populaires est [Awesome Cobol](https://github.com/mickaelandrieu/awesome-cobol) ... et pourtant je ne sais pas coder en Cobol 😕 ;
-* Je suis titulaire de deux licences universitaires (chimie biomoléculaire, informatique), d'un master (ingénieurie informatique) et bientôt d'un titre de niveau 7 en Analyse de données ... j'aime apprendre et sortir de ma zone de confort 😆 !
+* Je suis titulaire de deux licences universitaires (chimie biomoléculaire, informatique), d'un master (ingénieurie du web et de l'e-business) et d'un titre de Data Analyste de l'ENSAI (~Bac+4) ... j'aime apprendre et sortir de ma zone de confort 😉!
