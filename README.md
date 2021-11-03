@@ -6,7 +6,7 @@ Je suis actuellement consultant et formateur web/data.
 
 Spécialiste PHP et Symfony, je m'évalue comme un développeur web Python de niveau "correct".
 
-En qualité de Data Analyst/Scientist, voici ce que je suis capable de produire :
+En qualité de "Data Scientist", voici ce que je suis capable de produire :
 
 
 __En analyse de données :__
