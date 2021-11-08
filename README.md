@@ -76,4 +76,4 @@ Surprenez moi 😉
 
 ## :octocat: Mon profil contributeur
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickaelandrieu&show_icons=true&theme=dark&include_all_commits=1)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickaelandrieu&show_icons=true&theme=white&include_all_commits=1)
