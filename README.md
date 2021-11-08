@@ -4,11 +4,16 @@
 
 Je suis actuellement consultant et formateur web/data.
 
-Spécialiste PHP et Symfony, je m'évalue comme un développeur web Python de niveau "correct".
+Spécialiste PHP et Symfony, je m'évalue comme un développeur web Python de niveau correct.
 
-En qualité de "Data Scientist", voici ce que je suis capable de produire :
+En qualité de **Data Scientist**, voici ce que je suis capable de produire :
 
+__En Data Visualisation :__
 
+* Conception, développement, mise en ligne et maintenance de dashboards ;
+* Conception, développement et mise en ligne d'infographies ;
+* Formation aux outils du marché : Plotly, PowerBI, Data Studio, **Tableau** ;
+* 
 __En analyse de données :__
 
 * Analyse univariée et bivariée ;
@@ -18,12 +23,6 @@ __En Machine Learning :__
 
 * Algorithmes d'apprentissage supervisé : régression linéaire, régression logistique, K-nn et arbres de décision ;
 * Algorithmes d'apprentissage non supervisé : Kmeans, ACP, CAH ;
-
-__En Data Visualisation :__
-
-* Conception, développement, mise en ligne et maintenance de dashboards ;
-* Conception, développement et mise en ligne d'infographies ;
-* Formation aux outils du marché : Plotly, PowerBI, Data Studio, **Tableau** ;
 
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
@@ -40,7 +39,7 @@ Mes sujets d'intérêts pour 2021/2022 sont les suivants :
 * la Data Science et le Data Engineering : je pense préparer un titre d'Etat de [Data Scientist](https://openclassrooms.com/fr/paths/164-data-scientist)
 * ... et continuer à expérimenter tous les domaines d'application liés à l'IA
 
-(futur) Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
+Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
 Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je contribue à la revue web [Simple Comme Data](https://medium.com/simple-comme-data) qui partage des tutoriels et travaux de data visualization.
 
