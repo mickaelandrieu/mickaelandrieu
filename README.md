@@ -69,7 +69,7 @@ Surprenez moi 😉
 * (ex) Top 10 des contributeurs de la [documentation](https://github.com/symfony/symfony-docs) du framework PHP Symfony 🎵 ;
 * (ex) Mainteneur principal du projet [CasperJS](https://github.com/casperjs/casperjs) après le départ de @n1k0 (son créateur) 👻 ;
 * (ex) Core Team du projet [PrestaShop (CMS eCommerce)](https://github.com/prestashop/prestashop) pendant 4 ans 🐧 ;
-* (ex) Contributeur actif: 20 000 contributions open source sur GitHub, dont 3500 relectures de contributions 👓 ;
+* Contributeur actif: 35 000+ contributions Open Source sur GitHub, dont 3500 relectures de contributions 👓 ;
 * Mon [tout premier dépôt GitHub](https://github.com/mickaelandrieu/WePlayMusic.fr) a longtemps servi d'exemple chez SensioLabs pour montrer les mauvaises pratiques de développement : Yiiikes !!
 * Un de mes dépôts les plus populaires est [Awesome Cobol](https://github.com/mickaelandrieu/awesome-cobol) ... et pourtant je ne sais pas coder en Cobol 😕 ;
 * Je suis titulaire de deux licences universitaires (chimie biomoléculaire, informatique), d'un master (ingénieurie du web et de l'e-business) et d'un titre de Data Analyste de l'ENSAI (~Bac+4) ... j'aime apprendre et sortir de ma zone de confort 😉!
