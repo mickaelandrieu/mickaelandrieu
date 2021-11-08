@@ -73,3 +73,7 @@ Surprenez moi 😉
 * Mon [tout premier dépôt GitHub](https://github.com/mickaelandrieu/WePlayMusic.fr) a longtemps servi d'exemple chez SensioLabs pour montrer les mauvaises pratiques de développement : Yiiikes !!
 * Un de mes dépôts les plus populaires est [Awesome Cobol](https://github.com/mickaelandrieu/awesome-cobol) ... et pourtant je ne sais pas coder en Cobol 😕 ;
 * Je suis titulaire de deux licences universitaires (chimie biomoléculaire, informatique), d'un master (ingénieurie du web et de l'e-business) et d'un titre de Data Analyste de l'ENSAI (~Bac+4) ... j'aime apprendre et sortir de ma zone de confort 😉!
+
+## :octocat: Mon profil contributeur
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mickaelandrieu&show_icons=true&theme=dark&include_all_commits=1)
