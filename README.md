@@ -13,7 +13,7 @@ __En Data Visualisation :__
 * Conception, développement, mise en ligne et maintenance de dashboards ;
 * Conception, développement et mise en ligne d'infographies ;
 * Formation aux outils du marché : Plotly, PowerBI, Data Studio, **Tableau** ;
-* 
+
 __En analyse de données :__
 
 * Analyse univariée et bivariée ;
