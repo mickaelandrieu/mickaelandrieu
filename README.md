@@ -4,7 +4,7 @@
 
 Je suis actuellement consultant et formateur web/data.
 
-Spécialiste PHP et Symfony, je m'évalue comme un développeur web Python de niveau correct.
+Spécialiste PHP et Symfony, je m'évalue comme un développeur Python de niveau correct.
 
 En qualité de **Data Scientist**, voici ce que je suis capable de produire :
 
@@ -16,7 +16,7 @@ __En Data Visualisation :__
 
 __En analyse de données :__
 
-* Analyse univariée et bivariée ;
+* Analyse univariée et multivariée ;
 * Tests de Student, Bartlett, χ2 ;
 
 __En Machine Learning :__
@@ -36,8 +36,7 @@ Je suis intervenant au sein des établissements du groupe scolaire Studi sur les
 Mes sujets d'intérêts pour 2021/2022 sont les suivants :
 
 * la Data Visualization (essentiellement en "no code"), avec un passage de certification sur [Power BI](https://powerbi.microsoft.com/fr-fr/)
-* la Data Science et le Data Engineering : je pense préparer un titre d'Etat de [Data Scientist](https://openclassrooms.com/fr/paths/164-data-scientist)
-* ... et continuer à expérimenter tous les domaines d'application liés à l'IA
+* la Data Science et le Data Engineering : je prépare actuellement un titre d'[Ingénieur Machine Learning](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning)
 
 Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
@@ -53,7 +52,7 @@ Je ne recherche pas de CDI, mais si c'était le cas ce serait pour une entrepris
 
 ## :clipboard: Quelles sont tes références ?
 
-Voici la liste non exhaustive de mes clients/employeurs passés et actuels : Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Opquast, Packt Publishing ...
+Voici la liste non exhaustive de mes clients/employeurs passés et actuels : Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Ecole Supérieure du Digital, Opquast, Packt Publishing ...
 
 > Pour des recommandations, elles sont disponibles sur mon [profil LinkedIn](https://www.linkedin.com/in/mickaelandrieu/).
 
