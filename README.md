@@ -21,8 +21,11 @@ __En analyse de données :__
 
 __En Machine Learning :__
 
-* Algorithmes d'apprentissage supervisé : régression linéaire, régression logistique, K-nn et arbres de décision ;
-* Algorithmes d'apprentissage non supervisé : Kmeans, ACP, CAH ;
+* Algorithmes d'apprentissage supervisé ;
+* Algorithmes d'apprentissage non supervisé ;
+* Déploiement sous forme d'API REST ou d'applications web ;
+
+> Je suis capable d'expliquer la performance de mes modèles, et des variables que le composent.
 
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
@@ -35,8 +38,8 @@ Je suis intervenant au sein des établissements du groupe scolaire Studi sur les
  
 Mes sujets d'intérêts pour 2021/2022 sont les suivants :
 
-* la Data Visualization (essentiellement en "no code"), avec un passage de certification sur [Power BI](https://powerbi.microsoft.com/fr-fr/)
-* la Data Science et le Data Engineering : je prépare actuellement un titre d'[Ingénieur Machine Learning](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning)
+* la Data Visualization (essentiellement en "no code") sur des données Open Data
+* la Data Science : je prépare actuellement un titre d'[Ingénieur Machine Learning](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning)
 
 Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
