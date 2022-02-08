@@ -2,9 +2,8 @@
 
 ## 🔭 Qui suis-je ?
 
-Je suis actuellement consultant et formateur web/data.
+Je suis actuellement Data Scientist et Formateur Data/IA.
 
-Spécialiste PHP et Symfony, je m'évalue comme un développeur Python de niveau correct.
 
 En qualité de **Data Scientist**, voici ce que je suis capable de produire :
 
@@ -36,7 +35,7 @@ Je suis intervenant au sein des établissements du groupe scolaire Studi sur les
 > Concrètement, cela veut dire que j'accompagne et forme plus de **1500 personnes par an** sur PHP, Symfony, Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
 
  
-Mes sujets d'intérêts pour 2021/2022 sont les suivants :
+Mes sujets d'intérêts pour 2022/2023 sont les suivants :
 
 * la Data Visualization (essentiellement en "no code") sur des données Open Data
 * la Data Science : je prépare actuellement un titre d'[Ingénieur Machine Learning](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning)
