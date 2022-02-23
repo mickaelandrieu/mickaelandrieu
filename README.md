@@ -17,6 +17,7 @@ __En analyse de données :__
 
 * Analyse univariée et multivariée ;
 * Tests de Student, Bartlett, χ2 ;
+* Transformation de variables : log, Box-Cox, évaluation de multicolinéarité ;
 
 __En Machine Learning :__
 
@@ -24,7 +25,7 @@ __En Machine Learning :__
 * Algorithmes d'apprentissage non supervisé ;
 * Déploiement sous forme d'API REST ou d'applications web ;
 
-> Je suis capable d'expliquer la performance de mes modèles, et des variables que le composent.
+> Je suis capable d'expliquer la performance de mes modèles, et des variables qui le composent.
 
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
