@@ -31,7 +31,7 @@ __En Machine Learning :__
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
 
-Je suis intervenant au sein des établissements du groupe scolaire Studi sur les problématiques Web et Data, créateur de cours et mentor pour OpenClassrooms et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
+Je suis intervenant au sein des établissements du groupe scolaire Studi sur les problématiques Web et Data, auteur de cours pour OpenClassrooms et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
 
 > Concrètement, cela veut dire que j'accompagne et forme plus de **1500 personnes par an** sur PHP, Symfony, Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
 
@@ -69,7 +69,7 @@ Surprenez moi 😉
 
 * (ex) Top 10 des contributeurs de la [documentation](https://github.com/symfony/symfony-docs) du framework PHP Symfony 🎵 ;
 * (ex) Mainteneur principal du projet [CasperJS](https://github.com/casperjs/casperjs) après le départ de @n1k0 (son créateur) 👻 ;
-* (ex) Core Team du projet [PrestaShop (CMS eCommerce)](https://github.com/prestashop/prestashop) pendant 4 ans 🐧 ;
+* (ex) Core Team Member du projet [PrestaShop (CMS eCommerce)](https://github.com/prestashop/prestashop) pendant 4 ans 🐧 ;
 * Contributeur actif: 35 000+ contributions Open Source sur GitHub, dont 3500 relectures de contributions 👓 ;
 * Mon [tout premier dépôt GitHub](https://github.com/mickaelandrieu/WePlayMusic.fr) a longtemps servi d'exemple chez SensioLabs pour montrer les mauvaises pratiques de développement : Yiiikes !!
 * Un de mes dépôts les plus populaires est [Awesome Cobol](https://github.com/mickaelandrieu/awesome-cobol) ... et pourtant je ne sais pas coder en Cobol 😕 ;
