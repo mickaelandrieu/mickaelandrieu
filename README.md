@@ -2,28 +2,35 @@
 
 ## 🔭 Qui suis-je ?
 
-Je suis actuellement Data Scientist et Formateur Data/IA.
+Je suis actuellement Analytics Engineer Freelance.
 
 
-En qualité de **Data Scientist**, voici ce que je suis capable de produire :
+Mes compétences :
+
+__En Data Engineering :__
+
+* Charger vos données d'entreprises ou externes dans SnowFlake ou BigQuery
+* Produire, tester et documenter des tables/vues préparées dans dbt
+* Organiser le tout à l'aide de pipelines dans Apache Airflow
 
 __En Data Visualisation :__
 
 * Conception, développement, mise en ligne et maintenance de dashboards ;
 * Conception, développement et mise en ligne d'infographies ;
-* Formation aux outils du marché : Plotly, Data Studio, **Tableau** ;
+* Ma stack : Plotly, Data Studio, **Tableau** ;
 
 __En analyse de données :__
 
 * Analyse univariée et multivariée ;
-* Tests de Student, Bartlett, χ2 ;
-* Transformation de variables : log, Box-Cox, évaluation de multicolinéarité ;
+* Tests statistiques et évaluation des intervalles de confiance ;
+* Transformation et création de variables ;
 
 __En Machine Learning :__
 
 * Algorithmes d'apprentissage supervisé ;
 * Algorithmes d'apprentissage non supervisé ;
 * Déploiement sous forme d'API REST ou d'applications web ;
+* Expertise particulière en Segmentation E-commerce
 
 > Je suis capable d'expliquer la performance de mes modèles, et des variables qui le composent.
 
