@@ -19,7 +19,7 @@ __En Data Visualisation :__
 * Conception, développement et mise en ligne d'infographies ;
 * Ma stack : Plotly, Data Studio, **Tableau** ;
 
-__En analyse de données :__
+__En Data Analysis :__
 
 * Analyse univariée et multivariée ;
 * Tests statistiques et évaluation des intervalles de confiance ;
