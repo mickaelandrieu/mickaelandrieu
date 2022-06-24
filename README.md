@@ -38,20 +38,21 @@ __En Machine Learning :__
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
 
-Je suis intervenant au sein des établissements du groupe scolaire Studi sur les problématiques Web et Data, auteur de cours pour OpenClassrooms et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
+Je suis Analytics Engineer pour le compte d'une grande association qui travaille à rétablir l'égalité des chances et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
 
-> Concrètement, cela veut dire que j'accompagne et forme plus de **1500 personnes par an** sur PHP, Symfony, Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
+> J'aide les équipes métier à faire parler et valoriser leurs données, et j'accompagne les équipes Data vers le prochain niveau de maturité
+
+> J'accompagne de (futurs) professionnels sur Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
 
  
 Mes sujets d'intérêts pour 2022/2023 sont les suivants :
 
-* la Data Visualization (essentiellement en "no code") sur des données Open Data
-* la Data Science : je prépare actuellement un titre d'[Ingénieur Machine Learning](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning)
+* la mise en place de data warehouse à l'aide de la stack Airbyte/GCP/dbt
+* je finalise un titre d'[Ingénieur Machine Learning](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning)
 
 Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
 Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je contribue à la revue web [Simple Comme Data](https://medium.com/simple-comme-data) qui partage des tutoriels et travaux de data visualization.
-
 
 
 ## 👯 Peux-t-on collaborer ?
