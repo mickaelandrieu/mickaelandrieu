@@ -2,7 +2,7 @@
 
 ## 🔭 Qui suis-je ?
 
-Je suis actuellement Analytics Engineer Freelance.
+Je suis actuellement Lead Data chez Article 1.
 
 
 Mes compétences :
