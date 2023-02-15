@@ -45,21 +45,21 @@ Je suis Analytics Engineer pour le compte d'une grande association qui travaille
 > J'accompagne de (futurs) professionnels sur Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
 
  
-Mes sujets d'intérêts pour 2022/2023 sont les suivants :
+Mes sujets d'intérêts pour 2023/2024 sont les suivants :
 
-* la mise en place de data warehouse à l'aide de la stack Airbyte/GCP/dbt
+* la montée en compétences de mon équipe Data
 * je finalise un titre d'[Ingénieur Machine Learning](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning)
 
 Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
-Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je contribue à la revue web [Simple Comme Data](https://medium.com/simple-comme-data) qui partage des tutoriels et travaux de data visualization.
+Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je contribue à la revue web [Data 4 Everyone]([https://medium.com/simple-comme-data](https://dataforeveryone.medium.com/) qui partage des articles sur la Data et le Machine Learning.
 
 
 ## 👯 Peux-t-on collaborer ?
 
 Pourquoi pas, tant que je continue à travailler l'essentiel de mon temps chez moi 👼.
 
-Je ne recherche pas de CDI, mais si c'était le cas ce serait pour une entreprise à mission d'intérêt général : open source, éducation, écologie, lutte contre la pauvreté ou le racisme ...
+Je suis disponible pour de toutes petites missions freelances, mais pas en CDI.
 
 ## :clipboard: Quelles sont tes références ?
 
