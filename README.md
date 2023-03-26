@@ -52,7 +52,7 @@ Mes sujets d'intérêts pour 2023/2024 sont les suivants :
 
 Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
-Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je contribue à la revue web [Data 4 Everyone](https://medium.com/simple-comme-data](https://dataforeveryone.medium.com/) qui partage des articles sur la Data et le Machine Learning.
+Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je contribue à la revue web [Data 4 Everyone](https://dataforeveryone.medium.com/) qui partage des articles sur la Data et le Machine Learning.
 
 
 ## 👯 Peux-t-on collaborer ?
