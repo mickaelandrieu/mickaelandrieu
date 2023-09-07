@@ -38,7 +38,7 @@ __En Machine Learning :__
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
 
-Je suis Analytics Engineer pour le compte d'une grande association qui travaille à rétablir l'égalité des chances et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
+Je suis Lead Data pour le compte d'une grande association qui travaille à rétablir l'égalité des chances et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
 
 > J'aide les équipes métier à faire parler et valoriser leurs données, et j'accompagne les équipes Data vers le prochain niveau de maturité
 
@@ -63,7 +63,7 @@ Je suis disponible pour de toutes petites missions freelances, mais pas en CDI.
 
 ## :clipboard: Quelles sont tes références ?
 
-Voici la liste non exhaustive de mes clients/employeurs passés et actuels : Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Ecole Supérieure du Digital, Opquast, Packt Publishing ...
+Voici la liste non exhaustive de mes clients/employeurs passés et actuels : Article 1, Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Ecole Supérieure du Digital, Opquast, Packt Publishing ...
 
 > Pour des recommandations, elles sont disponibles sur mon [profil LinkedIn](https://www.linkedin.com/in/mickaelandrieu/).
 
