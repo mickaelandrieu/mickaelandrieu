@@ -45,10 +45,10 @@ Je suis Lead Data pour le compte d'une grande association qui travaille à réta
 > J'accompagne de (futurs) professionnels sur Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
 
  
-Mes sujets d'intérêts pour 2023/2024 sont les suivants :
+Mes sujets d'intérêts pour 2024/2025 sont les suivants :
 
-* la montée en compétences de mon équipe Data
-* je finalise un titre d'[Ingénieur Machine Learning](https://openclassrooms.com/fr/paths/148-ingenieur-machine-learning)
+* la montée en compétences de mon équipe
+* l'apport des outils low/no-code et gen-AI pour accélérer la mise en place de la stratégie Data 
 
 Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
@@ -59,7 +59,7 @@ Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf254
 
 Pourquoi pas, tant que je continue à travailler l'essentiel de mon temps chez moi 👼.
 
-Je suis disponible pour de toutes petites missions freelances, mais pas en CDI.
+Je ne suis pas à la recherche d'un emploi, mais je peux apporter du conseil à titre bénévole.
 
 ## :clipboard: Quelles sont tes références ?
 
@@ -81,4 +81,4 @@ Surprenez moi 😉
 * Contributeur actif: 35 000+ contributions Open Source sur GitHub, dont 3500 relectures de contributions 👓 ;
 * Mon [tout premier dépôt GitHub](https://github.com/mickaelandrieu/WePlayMusic.fr) a longtemps servi d'exemple chez SensioLabs pour montrer les mauvaises pratiques de développement : Yiiikes !!
 * Un de mes dépôts les plus populaires est [Awesome Cobol](https://github.com/mickaelandrieu/awesome-cobol) ... et pourtant je ne sais pas coder en Cobol 😕 ;
-* Je suis titulaire de deux licences universitaires (chimie biomoléculaire, informatique), d'un master (ingénieurie du web et de l'e-business) et d'un titre de Data Analyste de l'ENSAI (~Bac+4) ... j'aime apprendre et sortir de ma zone de confort 😉!
+* Je suis titulaire de deux licences universitaires (chimie biomoléculaire, informatique), d'un master (ingénieurie du web et de l'e-business) et d'un titre de Data Analyste de l'ENSAI (~Bac+4) ... j'aime apprendre et sortir de ma zone de confort 😉 !
