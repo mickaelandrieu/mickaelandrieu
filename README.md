@@ -57,9 +57,9 @@ Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf254
 
 ## 👯 Peux-t-on collaborer ?
 
-Pourquoi pas, tant que je continue à travailler l'essentiel de mon temps chez moi 👼.
+Pourquoi pas, tant que je continue à travailler l'essentiel du temps à domicile 👼.
 
-Je ne suis pas à la recherche d'un emploi, mais je peux apporter du conseil à titre bénévole.
+Je ne suis pas en recherche active d'un emploi, mais je peux apporter du conseil à titre bénévole.
 
 ## :clipboard: Quelles sont tes références ?
 
