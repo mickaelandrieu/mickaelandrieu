@@ -2,7 +2,7 @@
 
 ## 🔭 Qui suis-je ?
 
-Je suis actuellement Lead Data chez Article 1.
+Je suis actuellement Lead Tech & Data chez Article 1.
 
 
 Mes compétences :
@@ -11,7 +11,7 @@ __En Data Engineering :__
 
 * Charger vos données d'entreprises ou externes dans SnowFlake ou BigQuery
 * Produire, tester et documenter des tables/vues préparées dans dbt
-* Organiser le tout à l'aide de pipelines dans Apache Airflow
+* Organiser le tout à l'aide de pipelines dans Prefect ou Google Cloud Workflows
 
 __En Data Visualisation :__
 
@@ -21,7 +21,7 @@ __En Data Visualisation :__
 
 __En Data Analysis :__
 
-* Analyse univariée et multivariée ;
+* Analyse uni/multivariée ;
 * Tests statistiques et évaluation des intervalles de confiance ;
 * Transformation et création de variables ;
 
@@ -30,7 +30,8 @@ __En Machine Learning :__
 * Algorithmes d'apprentissage supervisé ;
 * Algorithmes d'apprentissage non supervisé ;
 * Déploiement sous forme d'API REST ou d'applications web ;
-* Expertise particulière en Segmentation E-commerce
+* Expérience en production avec un LLM augmenté de données et documents externes ;
+* Expertise particulière en Segmentation E-commerce ;
 
 > Je suis capable d'expliquer la performance de mes modèles, et des variables qui le composent.
 
@@ -40,7 +41,7 @@ __En Machine Learning :__
 
 Je suis Lead Data pour le compte d'une grande association qui travaille à rétablir l'égalité des chances et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
 
-> J'aide les équipes métier à faire parler et valoriser leurs données, et j'accompagne les équipes Data vers le prochain niveau de maturité
+> J'aide les équipes métier à faire parler et valoriser leurs données, et j'accompagne les équipes Data vers leur prochain niveau de maturité technique
 
 > J'accompagne de (futurs) professionnels sur Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
 
@@ -48,7 +49,7 @@ Je suis Lead Data pour le compte d'une grande association qui travaille à réta
 Mes sujets d'intérêts pour 2024/2025 sont les suivants :
 
 * la montée en compétences de mon équipe
-* l'apport des outils low/no-code et gen-AI pour accélérer la mise en place de la stratégie Data 
+* l'apport des outils low/no-code et gen-AI pour développer de nouveaux services innovants
 
 Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
