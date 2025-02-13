@@ -2,7 +2,7 @@
 
 ## 🔭 Qui suis-je ?
 
-Je suis actuellement Lead Tech & Data chez Article 1.
+Je suis un Lead Tech & Data Senior bientôt disponible pour de nouvelles (dat)aventures ! 🤝
 
 
 Mes compétences :
@@ -35,6 +35,12 @@ __En Machine Learning :__
 
 > Je suis capable d'expliquer la performance de mes modèles, et des variables qui le composent.
 
+__En IA (LLM mais pas que) :__
+
+ * Conception de chatbots via OpenAI (création automatisé d'assistants, architecture multi-agents, prise en charge des liens et des fichiers)
+ * Intégration de service Google (Vision, Audio) pour analyse de documents scannés, et détection de propos malveillants pour modération automatique
+
+> J'aime coder; et je sais le faire correctement. Mais je ne m'interdis jamais une bonne automatisation, notamment quand il s'agit de tester une idée. Je suis contributeur du projet Open Source N8N.
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
