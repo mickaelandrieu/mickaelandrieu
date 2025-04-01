@@ -45,17 +45,17 @@ __En IA (LLM mais pas que) :__
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
 
-Je suis Lead Data pour le compte d'une grande association qui travaille à rétablir l'égalité des chances et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
+Je suis Lead Data pour le compte d'une grande association qui travaille à rétablir l'égalité des chances, et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
 
 > J'aide les équipes métier à faire parler et valoriser leurs données, et j'accompagne les équipes Data vers leur prochain niveau de maturité technique
 
 > J'accompagne de (futurs) professionnels sur Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
 
  
-Mes sujets d'intérêts pour 2024/2025 sont les suivants :
+Mes sujets d'intérêts pour 2025 sont les suivants :
 
-* la montée en compétences de mon équipe
-* l'apport des outils low/no-code et gen-AI pour développer de nouveaux services innovants
+* progresser sur les Services Google notamment en préparant la Certification Professional Data Engineer ;
+* apporter mon expertise en automatisation et IA pour la résolution de problèmes concrets en TPE/PME (quick wins avec budget contraint) ;
 
 Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
 
@@ -66,11 +66,11 @@ Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf254
 
 Pourquoi pas, tant que je continue à travailler l'essentiel du temps à domicile 👼.
 
-Je ne suis pas en recherche active d'un emploi, mais je peux apporter du conseil à titre bénévole.
+Je suis en recherche active d'une mission, je fais également un peu de conseil à titre bénévole.
 
 ## :clipboard: Quelles sont tes références ?
 
-Voici la liste non exhaustive de mes clients/employeurs passés et actuels : Article 1, Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Ecole Supérieure du Digital, Opquast, Packt Publishing ...
+Voici la liste non exhaustive de mes clients/employeurs passés et actuels : Article 1, Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Ecole Supérieure du Digital, Opquast, Packt Publishing, Wild Code School...
 
 > Pour des recommandations, elles sont disponibles sur mon [profil LinkedIn](https://www.linkedin.com/in/mickaelandrieu/).
 
