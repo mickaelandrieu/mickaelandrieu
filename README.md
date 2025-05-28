@@ -2,7 +2,7 @@
 
 ## 🔭 Qui suis-je ?
 
-Je suis un Lead Tech & Data Senior bientôt disponible pour de nouvelles (dat)aventures ! 🤝
+Je suis un Développeur expérimenté qui a franchi le pas de la Data et de l'IA 🤖.
 
 
 Mes compétences :
@@ -39,34 +39,29 @@ __En IA (LLM mais pas que) :__
 
  * Conception de chatbots via OpenAI (création automatisé d'assistants, architecture multi-agents, prise en charge des liens et des fichiers)
  * Intégration de service Google (Vision, Audio) pour analyse de documents scannés, et détection de propos malveillants pour modération automatique
+ * Conception avancée avec LangChain(chains, agents, tools, memory) et mise en place de RAGs
 
 > J'aime coder; et je sais le faire correctement. Mais je ne m'interdis jamais une bonne automatisation, notamment quand il s'agit de tester une idée. Je suis contributeur du projet Open Source N8N.
 
 ## 🌱 Qu'est-ce que je fais de beau actuellement ?
 
 
-Je suis Lead Data pour le compte d'une grande association qui travaille à rétablir l'égalité des chances, et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
+Je suis Ingénieur IA, et professeur attaché au master "Data Marketing" de l'[ESD Bordeaux](https://ecole-du-digital.com/formations/mastere-data-marketing/).
 
-> J'aide les équipes métier à faire parler et valoriser leurs données, et j'accompagne les équipes Data vers leur prochain niveau de maturité technique
+> J'aide les équipes métier à faire parler et valoriser leurs données, et je contribue à une plateforme IA (réellement) leader de son marché.
 
 > J'accompagne de (futurs) professionnels sur Python, MySQL, les bases de statistiques descriptives, l'analyse et la visualisation de données en (no) code avec des technologies comme Plotly, Google Sheets, Tableau, Power BI, les enjeux de l'IA et du Machine Learning ...
 
  
-Mes sujets d'intérêts pour 2025 sont les suivants :
+Mes sujets d'intérêts pour 2025-26 sont les suivants :
 
-* progresser sur les Services Google notamment en préparant la Certification Professional Data Engineer ;
-* apporter mon expertise en automatisation et IA pour la résolution de problèmes concrets en TPE/PME (quick wins avec budget contraint) ;
-
-Diplômé de l'[ENSAI](http://ensai.fr/) (Ecole Nationale de la Statistique et de l'Analyse de l'Information) en Data, je suis un utilisateur assidu de la plateforme DataCamp : ci-joint mon profil [public](https://www.datacamp.com/profile/mickaelandrieu).
-
-Certifié [Tableau Desktop Specialist](https://www.youracclaim.com/badges/adf2541b-3d85-4b06-bf1c-3a6621886e0f?source=linked_in_profile), je contribue à la revue web [Data 4 Everyone](https://dataforeveryone.medium.com/) qui partage des articles sur la Data et le Machine Learning.
+* Maîtriser, et développer une expertise extrêmement pointue de l'IA ;
+* Contribuer à des sujets d'intérêt général en développant mon investissement auprès de l'association Data 4 Good ;
 
 
 ## 👯 Peux-t-on collaborer ?
 
-Pourquoi pas, tant que je continue à travailler l'essentiel du temps à domicile 👼.
-
-Je suis en recherche active d'une mission, je fais également un peu de conseil à titre bénévole.
+Je viens de rejoindre un projet, et je compte bien m'y investir au minimum pendant 3 ans.
 
 ## :clipboard: Quelles sont tes références ?
 
