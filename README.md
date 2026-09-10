@@ -59,10 +59,6 @@ Mes sujets d'intérêts pour 2025-26 sont les suivants :
 * Contribuer à des sujets d'intérêt général en développant mon investissement auprès de l'association Data 4 Good ;
 
 
-## 👯 Peux-t-on collaborer ?
-
-Je viens de rejoindre un projet, et je compte bien m'y investir au minimum pendant 3 ans.
-
 ## :clipboard: Quelles sont tes références ?
 
 Voici la liste non exhaustive de mes clients/employeurs passés et actuels : Article 1, Akeneo, PrestaShop, OpenClassrooms, Groupe Carrefour, Groupe Studi, ESGI Paris, EGS Bordeaux, La Piscine Bordeaux, PPA Paris, Ecole Supérieure du Digital, Opquast, Packt Publishing, Wild Code School...
